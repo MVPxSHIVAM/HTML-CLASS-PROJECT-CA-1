@@ -12,13 +12,10 @@ This project is a simple HTML web page showcasing the PlayStation 5 (PS5) gaming
 
 ## How to Use
 
-1. Open [gadget_launch.html](WD%20and%20DT%20classes/gadget_launch.html) in any web browser.
+1. Open [gadget_launch.html] in any web browser.
 2. Explore the information about PS5, its variants, and games.
 3. Click the "CLICK ME" link to visit Amazon for purchasing options.
 
-## File Location
-
-- [WD and DT classes/gadget_launch.html](WD%20and%20DT%20classes/gadget_launch.html)
 
 ## Screenshots
 
